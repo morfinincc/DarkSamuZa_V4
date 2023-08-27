@@ -137,7 +137,7 @@ module.exports = async (Atlas, m, commands, chatUpdate) => {
 
 
 
-const main_owner = sender == '94703768140@s.whatsapp.net'
+const main_owner = sender == '905340770299@s.whatsapp.net'
      if (main_owner) {
      await doReact("👨‍💻");  
      }
